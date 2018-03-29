@@ -1,0 +1,6 @@
+framework module ZImagePicker {
+  umbrella header "ZImagePicker-umbrella.h"
+
+  export *
+  module * { export * }
+}

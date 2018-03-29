@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'ZImagePicker_Example' do
+  pod 'ZImagePicker', :path => '../'
+
+  target 'ZImagePicker_Tests' do
+    inherit! :search_paths
+
+    pod 'Kiwi'
+    pod 'FBSnapshotTestCase'
+  end
+end
