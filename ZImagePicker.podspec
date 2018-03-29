@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ZImagePicker'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = '从相册选择图片'
 
 # This description is used to generate tags and improve search results.
@@ -32,9 +32,9 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'ZImagePicker/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   'ZImagePicker' => ['ZImagePicker/Assets/*.png']
-  # }
+  s.resource_bundles = {
+    'ZImagePicker' => ['ZImagePicker/Assets/*']
+  }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'

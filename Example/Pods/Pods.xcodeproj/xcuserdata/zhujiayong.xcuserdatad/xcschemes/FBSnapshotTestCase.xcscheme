@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0700"
+   LastUpgradeVersion = "0930"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -13,11 +13,11 @@
             buildForProfiling = "YES"
             buildForArchiving = "YES">
             <BuildableReference
-               BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '34CD2E3428AB802BACA62286FF5074B1'
-               BlueprintName = 'FBSnapshotTestCase'
-               ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'FBSnapshotTestCase.framework'>
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "34CD2E3428AB802BACA62286FF5074B1"
+               BlueprintName = "FBSnapshotTestCase"
+               ReferencedContainer = "container:Pods.xcodeproj"
+               BuildableName = "FBSnapshotTestCase.framework">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4F72A9EE3905809D7EAFAC7E82614721"
-               BuildableName = "Pods_ZImagePicker_Example.framework"
-               BlueprintName = "Pods-ZImagePicker_Example"
+               BlueprintIdentifier = "9B03014B8443D165B2C2FB579DF8D6C1"
+               BuildableName = "ZImagePicker.bundle"
+               BlueprintName = "ZImagePicker-ZImagePicker"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -47,9 +47,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4F72A9EE3905809D7EAFAC7E82614721"
-            BuildableName = "Pods_ZImagePicker_Example.framework"
-            BlueprintName = "Pods-ZImagePicker_Example"
+            BlueprintIdentifier = "9B03014B8443D165B2C2FB579DF8D6C1"
+            BuildableName = "ZImagePicker.bundle"
+            BlueprintName = "ZImagePicker-ZImagePicker"
             ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

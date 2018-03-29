@@ -14,13 +14,13 @@ DEPENDENCIES:
 
 EXTERNAL SOURCES:
   ZImagePicker:
-    :path: "../"
+    :path: ../
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
   Kiwi: fbeafef0f00e4d8f7dcb3420a4930afe70af77f7
-  ZImagePicker: ffb7028ce1d7b103c4c28d46516f06996a169a05
+  ZImagePicker: 0af5d340b02b772c000cd2f32da20144ef95027e
 
 PODFILE CHECKSUM: 12cc36554a4bdcc18cd5d500747f2a6a1810404b
 
-COCOAPODS: 1.1.1
+COCOAPODS: 1.4.0

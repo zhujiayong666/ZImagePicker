@@ -1,9 +1,9 @@
 {
   "name": "ZImagePicker",
   "version": "0.1.0",
-  "summary": "A short description of ZImagePicker.",
+  "summary": "从相册选择图片",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/朱家永/ZImagePicker",
+  "homepage": "https://github.com/zhujiayong666/ZImagePicker",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,16 @@
     "朱家永": "zhujiayong666@gmail.com"
   },
   "source": {
-    "git": "https://github.com/朱家永/ZImagePicker.git",
+    "git": "https://github.com/zhujiayong666/ZImagePicker.git",
     "tag": "0.1.0"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "ZImagePicker/Classes/**/*"
+  "source_files": "ZImagePicker/Classes/**/*",
+  "resource_bundles": {
+    "ZImagePicker": [
+      "ZImagePicker/Assets/*"
+    ]
+  }
 }
